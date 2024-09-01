@@ -10,7 +10,7 @@ After analyzing both the DETE and TAFE surveys, I have found out that:
 
    **Finding 1)**
    
-   People who worked 7 to 10 years in the same company or institution were more common to have dissatisfaction. People who are new to their serving institutions or have been worked there for 3 to 6 years share a considerable amount of dissatisfaction as well.
+   People who worked 7 to 10 years in the same company or institution were more common to have dissatisfaction. People who are new to their previously served institution or have been worked there for 3 to 6 years share a considerable amount of dissatisfaction as well.
 
   
    **Finding 2)**
