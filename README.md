@@ -56,5 +56,9 @@ However, the survey suggests that the group of people who express dissatisfactio
 By independently analyzing the DETE survey, it is clear that **people making a career switch to private sector** is the main reason why they resign their previous job. While there are no information regarding respondants' age in the DEFE survey, we could hypothesize that many employees who are at a younger age, who are new to the workforce and labor market, AND those relatively older employee who are already establioshed and expereinced in the workforce, have been commonly showing dissatisfaction towards what they were doing, possibly due to lack of sattisfaction and recognition, resign their jobs and switch to a different sector for better professional development.
 
 # Content for this project
+a) A **"Code"** folder which contains the Python code to execute the analysis for this project
 
+b) A **"Data"** folder which contains the two surveys, DETE and TAFE survey in csv format, as well as all other manipulated dataframes that was produced when performing the analyhis, all in csv format as well
+
+c) An **"Image"** folder whjich contains all the explanatory charts and explanatory statistics in this README page
 
