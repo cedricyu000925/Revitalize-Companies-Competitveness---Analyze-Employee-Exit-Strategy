@@ -60,5 +60,5 @@ a) A **"Code"** folder which contains the Python code to execute the analysis fo
 
 b) A **"Data"** folder which contains the two surveys, DETE and TAFE survey in csv format, as well as all other manipulated dataframes that was produced when performing the analyhis, all in csv format as well
 
-c) An **"Image"** folder whjich contains all the explanatory charts and explanatory statistics in this README page
+c) An **"Image"** folder which contains all the explanatory charts and statistics in this README page
 
