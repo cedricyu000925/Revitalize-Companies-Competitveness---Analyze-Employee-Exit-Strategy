@@ -35,7 +35,7 @@ After analyzing the exit surveys from the Department of Education, Training and 
 
 While less pronounced than the "Established" employees, **"New" and "Experienced" (worked 3 to 6 years)** employees also share a moderately high amount of dissatisfaction towards their company (26% and 25% respectively). It is possible that as employees become more familiar with the institutional culture and expectations, they begin to encounter limitations in career growth or job satisfaction.
 
-According to this bar chart, **"Veteran"(those who worked more than 10 years)** employees have the least amount of dissatisfaction towards their company (3%). It is possible that veteran employees might experience either renewed satisfaction due to stability and recognition.
+According to this bar chart, **"Veteran"(those who worked 11 years or more)** employees have the least amount of dissatisfaction towards their company (3%). It is possible that veteran employees might experience either renewed satisfaction due to stability and recognition.
 
 # Finding 2) BOTH young people and middle-aged people express a high level of dissatisfaction
 
