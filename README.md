@@ -1,4 +1,6 @@
-# Revitalize Companies Competitveness --- Analyze Employee Exit Strategy
+# [Revitalize Companies Competitveness --- Analyze Employee Exit Strategy]
+
+# INTRODUCTION
 For this project, we’ll assume the role of data analysts for the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia to analyze employee exit surveys and uncover insights about why employees resign.
 
 In this project, I used Google Colab, Python (for dataframe manipulating and data visualization), and Microsoft Excel csv files to analyze the said surveys to get insights about:
