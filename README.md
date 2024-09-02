@@ -3,7 +3,7 @@
 # INTRODUCTION
 For this project, we’ll assume the role of data analysts for the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia to analyze employee exit surveys and uncover insights about why employees resign.
 
-In this project, I used Google Colab, Python (for dataframe manipulating and data visualization), and Microsoft Excel csv files to analyze the said surveys to get insights about:
+In this project, I used Google Colab, Python (for dataframe manipulating and data visualization), and Microsoft Excel csv files to analyze the abovementioned surveys to get insights about:
 
   1. Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
   2. Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
