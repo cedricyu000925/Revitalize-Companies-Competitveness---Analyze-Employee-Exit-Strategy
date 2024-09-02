@@ -49,7 +49,7 @@ By independently examining and analyzing the TAFE survey, I found out that 340 p
 
 Among these 117 dissatisfied respondants, **21 to 25 years old** and **26 to 30 years old** expressed a moderately high amount of dissatisfaction to their previous job, thus answering our second question, to which that a moderately high number of younger employees resign due to certain dissatisfaction. 
 
-However, the survey suggests that the group of people who express dissatisfaction towards their previous job are those who are in their middle age phase, namely **41 to 55 years old**. This finding sughgests a possible lack of satisfaction and recognition were provided to the younger and middle-aged employees.
+However, the survey suggests that the group of people who express dissatisfaction towards their previous job are those who are in their middle age phase, namely **41 to 55 years old**. This finding suggests a possible lack of satisfaction and recognition were provided to the younger and middle-aged employees.
 
 # Other related findings
 
