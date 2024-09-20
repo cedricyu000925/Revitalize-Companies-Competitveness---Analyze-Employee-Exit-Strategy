@@ -1,6 +1,6 @@
 # [Revitalize Companies Competitveness --- Analyze Employee Exit Strategy]
 
-# INTRODUCTION
+## INTRODUCTION
 For this project, we’ll assume the role of data analysts for the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia to analyze employee exit surveys and uncover insights about why employees resign.
 
 In this project, I used Google Colab, Python (for dataframe manipulating and data visualization), and Microsoft Excel csv files to analyze the abovementioned surveys to get insights about:
@@ -19,7 +19,7 @@ After analyzing both the DETE and TAFE surveys, I have found out that:
    
    Younger people (we are talking about 21 to 30 years old employees) do have a considerable amount of dissatisfaction, but it is actually most common for employees who are 41 to 55 years old to have dissatisfaction towards their insitution.
 
-# Finding 1) It is most common for those who are established in their own insitution to harbor dissatisfaction
+### Finding 1) It is most common for those who are established in their own insitution to harbor dissatisfaction
 To briefly explain the labels:
 
 **New**: Less than 3 years at a company
@@ -39,7 +39,7 @@ While less pronounced than the "Established" employees, **"New" and "Experienced
 
 According to this bar chart, **"Veteran"(those who worked 11 years or more)** employees have the least amount of dissatisfaction towards their company (3%). It is possible that veteran employees might experience either renewed satisfaction due to stability and recognition.
 
-# Finding 2) BOTH young people and middle-aged people express a high level of dissatisfaction
+### Finding 2) BOTH young people and middle-aged people express a high level of dissatisfaction
 
 ![Finding 2a](https://github.com/user-attachments/assets/81552025-d499-4482-b324-7d0d42c274f5)
 
@@ -51,13 +51,13 @@ Among these 117 dissatisfied respondants, **21 to 25 years old** and **26 to 30 
 
 However, the survey suggests that the group of people who express dissatisfaction towards their previous job are those who are in their middle age phase, namely **41 to 55 years old**. This finding suggests a possible lack of satisfaction and recognition were provided to the younger and middle-aged employees.
 
-# Other related findings
+## Other related findings
 
 ![Other related findings](https://github.com/user-attachments/assets/3aa665d1-316d-4ed6-bf2a-87905d0bf240)
 
 By independently analyzing the DETE survey, it is clear that **people making a career switch to private sector** is the main reason why they resign their previous job. While there are no information regarding respondants' age in the DEFE survey, we could hypothesize that many employees who are at a younger age, who are new to the workforce and labor market, AND those relatively older employee who are already establioshed and expereinced in the workforce, have been commonly showing dissatisfaction towards what they were doing, possibly due to lack of satisfaction and recognition, resign their jobs and switch to a different sector for better professional development.
 
-# Content for this project
+## Content for this project
 a) A **"Code"** folder which contains the Python code to execute the analysis for this project
 
 b) A **"Data"** folder which contains the two surveys, DETE and TAFE survey in csv format, as well as all other manipulated dataframes that was produced when performing the analyhis, all in csv format as well
